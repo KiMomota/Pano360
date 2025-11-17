@@ -1,5 +1,7 @@
 # Pano360: Perspective to Panoramic Vision with Geometric Consistency
 
+## 🌟 Features
+
 ![teaser](Pano360.jpg)
 
 **Pano360** is a large transformer network for panorama stitching, which supports input ranges from a few to hundreds of images and stitches them in seconds
