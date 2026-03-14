@@ -1,8 +1,5 @@
-# Pano360: Perspective to Panoramic Vision with Geometric Consistency
+<div align="center">
+<h1>Pano360: Perspective to Panoramic Vision with Geometric Consistency</h1>
 
-## 🌟 Features
-
-![teaser](Pano360.jpg)
-
-**Pano360** is a large transformer network for panorama stitching, which supports input ranges from a few to hundreds of images and stitches them in seconds
-It adopts **camera-pose to guide image warping in 3D photogrammetric space** and **multi-feature joint optimization strategy**-to compute the seam mask. Our method significantly outperforms prior methods in perceptual quality and alignment accuracy. 
+<a href="https://arxiv.org/abs/2603.12013"><img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b" alt="arXiv"></a>
+<a href="https://huggingface.co/spaces/facebook/vggt"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
