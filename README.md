@@ -1,6 +1,7 @@
 <div align="center">
   <h1>
     Pano360: Perspective to Panoramic Vision with Geometric Consistency
+    
     <!-- arXiv Badge -->
     <a href="https://arxiv.org/abs/2503.11651"><img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b" alt="arXiv"></a>
     <!-- Hugging Face Badge -->
