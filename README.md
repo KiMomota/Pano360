@@ -11,8 +11,6 @@
 
 ### 📂 Dataset Directory Structure
 
-The dataset is organized hierarchically by scene categories, sub-scenes, and focal lengths. Below is the detailed layout:
-
 ```text
 ROOT/
 ├── Scene(a)/                  # Tourism scenes
