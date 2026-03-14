@@ -1,17 +1,16 @@
 <div align="center">
-  <h1>
-    Pano360: Perspective to Panoramic Vision with Geometric Consistency
-    <br>
-    <!-- arXiv Badge -->
-    <a href="https://arxiv.org/abs/2503.11651"><img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b" alt="arXiv"></a>
-    <!-- Hugging Face Badge -->
-    <a href="https://huggingface.co/datasets/DongZhi/Pano360"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Pano360-blue" alt="Hugging Face Dataset"></a>
-    <!-- License Badge -->
-    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
-  </h1>
+<h1>Pano360: Perspective to Panoramic Vision with Geometric Consistency</h1>
+
+<a href="https://arxiv.org/abs/2503.11651"><img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b" alt="arXiv"></a>
+
+![alt text](https://img.shields.io/badge/🤗%20Hugging%20Face-Pano360-blue)
+
+
+![alt text](https://img.shields.io/badge/License-MIT-green.svg)
+
 </div>
 
-🚀 The [Pano360 Dataset](https://huggingface.co/datasets/DongZhi/Pano360) contains four scenes (a, b, c, d), including tourism, sports, and special lighting scenes.
+🚀 The [Pano360](https://huggingface.co/datasets/DongZhi/Pano360) dataset contains four scenes (a, b, c, d), including tourism, sports, and special lighting scenes.
 
 ### 📂 Dataset Directory Structure
 
