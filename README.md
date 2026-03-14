@@ -9,12 +9,6 @@
 
 🚀 The [Pano360 Dataset](https://huggingface.co/datasets/DongZhi/Pano360) contains four scenes (a, b, c, d), including tourism, sports, and special lighting scenes.
 
-Here is a clean, professional, and well-formatted English version tailored specifically for a **GitHub Release** or **README.md** file. 
-
-You can directly copy and paste the Markdown code below:
-
-***
-
 ### 📂 Dataset Directory Structure
 
 The dataset is organized hierarchically by scene categories, sub-scenes, and focal lengths. Below is the detailed layout:
