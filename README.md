@@ -9,38 +9,36 @@
 
 🚀 The [Pano360 Dataset](https://huggingface.co/datasets/DongZhi/Pano360) contains four scenes (a, b, c, d), including tourism, sports, and special lighting scenes.
 
-###  Data directory structure
-```
-ROOT
-|
---- ENV_NAME_0                             # environment folder
-|       |
-|       ---- Easy                          # difficulty level
-|       |      |
-|       |      ---- P000                   # trajectory folder
-|       |      |      |
-|       |      |      +--- depth_left      # 000000_left_depth.npy - 000xxx_left_depth.npy
-|       |      |      +--- depth_right     # 000000_right_depth.npy - 000xxx_right_depth.npy
-|       |      |      +--- flow            # 000000_000001_flow/mask.npy - 000xxx_000xxx_flow/mask.npy
-|       |      |      +--- image_left      # 000000_left.png - 000xxx_left.png 
-|       |      |      +--- image_right     # 000000_right.png - 000xxx_right.png 
-|       |      |      +--- seg_left        # 000000_left_seg.npy - 000xxx_left_seg.npy
-|       |      |      +--- seg_right       # 000000_right_seg.npy - 000xxx_right_seg.npy
-|       |      |      ---- pose_left.txt 
-|       |      |      ---- pose_right.txt
-|       |      |  
-|       |      +--- P001
-|       |      .
-|       |      .
-|       |      |
-|       |      +--- P00K
-|       |
-|       +--- Hard
-|
-+-- ENV_NAME_1
-.
-.
-|
-+-- ENV_NAME_N
+Here is a clean, professional, and well-formatted English version tailored specifically for a **GitHub Release** or **README.md** file. 
+
+You can directly copy and paste the Markdown code below:
+
+***
+
+### 📂 Dataset Directory Structure
+
+The dataset is organized hierarchically by scene categories, sub-scenes, and focal lengths. Below is the detailed layout:
+
+```text
+ROOT/
+├── Scene(a)/                  # Tourism scenes
+│   ├── 0/                     # 1st sub-scene
+│   │   ├── 001/               # 1st focal length
+│   │   │   ├── cameras.json   # Ground truth camera parameters
+│   │   │   └── images/        # Contains exactly 24 image frames
+│   │   ├── 002/               # 2nd focal length
+│   │   └── 003/               # 3rd focal length
+│   ├── 1/                     # 2nd sub-scene
+│   ├── ...                    # (Intermediate sub-scenes)
+│   └── 165/                   # 166th sub-scene (Indexed 0 to 165)
+│
+├── Scene(b)/                  # Sports scenes
+│   └── ...                   
+│
+├── Scene(c)/                  # Special lighting scenes
+│   └── ...                    
+│
+└── Scene(d)/                  # Unsupervised in-the-wild scenes
+    └── ...                    
 ```
 
