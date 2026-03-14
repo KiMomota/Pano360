@@ -6,6 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 > **🚀 The [Pano360 Dataset](https://huggingface.co/datasets/DongZhi/Pano360) has been released on Hugging Face!** <br>
-> It contains four sub-scenes (a, b, c, d), covering diverse scenarios including Tourism, Sports, and Special Lighting Scenes.
+> It contains four scenes (a, b, c, d), including tourism, sports, and special lighting scenes.
 
 </div>
