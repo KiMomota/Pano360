@@ -7,6 +7,15 @@
 
 </div>
 
+```bibtex
+@article{zhu2026pano360,
+  title={Pano360: Perspective to Panoramic Vision with Geometric Consistency},
+  author={Zhu, Zhengdong and Xue, Weiyi and Yang, Zuyuan and Zhou, Wenlve and Zhou, Zhiheng},
+  journal={arXiv preprint arXiv:2603.12013},
+  year={2026}
+}
+```
+
 🚀 The [Pano360](https://huggingface.co/datasets/DongZhi/Pano360) dataset contains four scenes (a, b, c, d), including tourism, sports, and special lighting scenes.
 
 ### 📂 Dataset Directory Structure
