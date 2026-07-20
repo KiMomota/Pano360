@@ -10,7 +10,7 @@ Pano360: Perspective to Panoramic Vision with Geometric Consistency
 </div>
 
 <p align="center">
-  <img src="result/teaser.jpg" width="80%">
+  <img src="result/teaser.jpg" width="85%">
 </p>
 
 ## Requirements
