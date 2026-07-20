@@ -1,0 +1,3 @@
+-r requirements.txt
+lightglue @ git+https://github.com/cvg/LightGlue.git
+
