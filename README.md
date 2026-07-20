@@ -7,8 +7,7 @@
 
 </div>
 
-
-
+![teaser](result/teaser.jpg)
 
 
 
