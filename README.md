@@ -136,7 +136,8 @@ ROOT/
 ```
 
 ## Citation
-If you have any question, please contact me via eezhengdong@mail.scut.edu.cn
+If you have any question, please contact me via eezhengdong@mail.scut.edu.cn 
+
 If you find Pano360 useful for your research, please cite:
 
 ```bibtex
