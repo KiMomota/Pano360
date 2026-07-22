@@ -17,7 +17,7 @@ Pano360: Perspective to Panoramic Vision with Geometric Consistency
 
 - Python 3.9
 - PyTorch 2.3
-- GPU: CUDA-compatible GPU with ≥12GB VRAM
+- GPU: CUDA-compatible GPU with ≥4GB VRAM
 - The VGGT-Omega checkpoint at `model/vggt_omega_1b_512.pt`
 
 ## Installation
