@@ -141,12 +141,13 @@ If you have any question, please contact me via eezhengdong@mail.scut.edu.cn
 If you find Pano360 useful for your research, please cite:
 
 ```bibtex
-@InProceedings{Zhu_2026_CVPR,
-    author    = {Zhu, Zhengdong and Xue, Weiyi and Yang, Zuyuan and Zhou, Wenlve and Zhou, Zhiheng},
-    title     = {Pano360: Perspective to Panoramic Vision with Geometric Consistency},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2026},
-    pages     = {7600-7609}
+
+@inproceedings{zhu2026pano360,
+  title={Pano360: Perspective to Panoramic Vision with Geometric Consistency},
+  author={Zhu, Zhengdong and Xue, Weiyi and Yang, Zuyuan and Zhou, Wenlve and Zhou, Zhiheng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7600--7609},
+  year={2026}
 }
+
 ```
